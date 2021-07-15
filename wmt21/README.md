@@ -16,7 +16,7 @@ for **Task 2**, use the following scripts:
 * word-level HTER:  `python word_evaluate.py -h`
 
 for **Task 3**, use the following script: 
-* MQM **score**: `python sent_evaluate_CED.py -h`
+* sentence-level Critical Error Detection**: `python sent_evaluate_CED.py -h`
 
 Once you have checked that your system output on the dev data is correctly read by the right script, you can submit it using the CODALAB page corresponding to your subtask (see below).
 
