@@ -1,0 +1,4 @@
+plac
+numpy
+scikit-learn
+scipy
